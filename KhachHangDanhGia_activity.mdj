@@ -298,10 +298,10 @@
 												"$ref": "AAAAAAGBGDsKiNB0fzw="
 											},
 											"font": "Arial;13;1",
-											"left": 69,
+											"left": 45,
 											"top": 583,
-											"width": 87,
-											"height": 39,
+											"width": 111,
+											"height": 26,
 											"text": "đánh giá tình trạng sản phẩm",
 											"wordWrap": true
 										},
@@ -334,10 +334,10 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 64,
+									"left": 40,
 									"top": 576,
-									"width": 97,
-									"height": 51,
+									"width": 121,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGBGDsKiNB1P/0="
 									},
@@ -354,10 +354,10 @@
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 64,
+							"left": 40,
 							"top": 576,
-							"width": 97,
-							"height": 67,
+							"width": 121,
+							"height": 54,
 							"nameCompartment": {
 								"$ref": "AAAAAAGBGDsKiNB0fzw="
 							},
@@ -510,7 +510,7 @@
 											"top": 583,
 											"width": 87,
 											"height": 26,
-											"text": "các đánh giá khác",
+											"text": "đánh giá khác",
 											"wordWrap": true
 										},
 										{
@@ -1526,17 +1526,18 @@
 										"$ref": "AAAAAAGBGD1wfNGqQuo="
 									},
 									"font": "Arial;13;0",
-									"left": 456,
-									"top": 364,
-									"width": 56.08154296875,
-									"height": 13,
-									"alpha": -1.108095099204486,
-									"distance": 33.015148038438355,
+									"left": 439,
+									"top": 355,
+									"width": 70,
+									"height": 26,
+									"alpha": -1.0636981630735103,
+									"distance": 43.68065933568311,
 									"hostEdge": {
 										"$ref": "AAAAAAGBGD1wfNGr8+0="
 									},
 									"edgePosition": 1,
-									"text": "lớn hơn 0"
+									"text": "khách hàng đã thuê",
+									"wordWrap": true
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1621,17 +1622,18 @@
 										"$ref": "AAAAAAGBGD10rNG76FU="
 									},
 									"font": "Arial;13;0",
-									"left": 575,
-									"top": 366,
-									"width": 39.76171875,
-									"height": 13,
-									"alpha": 1.3793078562905494,
-									"distance": 20.248456731316587,
+									"left": 568,
+									"top": 358,
+									"width": 95,
+									"height": 26,
+									"alpha": 1.1963135463969368,
+									"distance": 40.26164427839479,
 									"hostEdge": {
 										"$ref": "AAAAAAGBGD10rNG8elQ="
 									},
 									"edgePosition": 1,
-									"text": "bằng 0"
+									"text": "khách hàng chưa thuê",
+									"wordWrap": true
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1811,8 +1813,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 178,
-									"top": 549,
+									"left": 170,
+									"top": 550,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1832,8 +1834,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 189,
-									"top": 559,
+									"left": 180,
+									"top": 561,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1853,8 +1855,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 155,
-									"top": 530,
+									"left": 149,
+									"top": 529,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1872,7 +1874,7 @@
 								"$ref": "AAAAAAGBGDriFNBu5ZQ="
 							},
 							"lineStyle": 1,
-							"points": "192:518;142:575",
+							"points": "191:518;129:575",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBGD2j89IafGQ="
@@ -2093,8 +2095,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 190,
-									"top": 638,
+									"left": 180,
+									"top": 631,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2114,8 +2116,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 198,
-									"top": 626,
+									"left": 188,
+									"top": 619,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2135,8 +2137,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 173,
-									"top": 663,
+									"left": 163,
+									"top": 656,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2154,7 +2156,7 @@
 								"$ref": "AAAAAAGBGDsKiNBzAEc="
 							},
 							"lineStyle": 1,
-							"points": "161:643;203:671",
+							"points": "142:630;203:671",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBGD2049JNKE4="
@@ -3229,7 +3231,7 @@
 										"$ref": "AAAAAAGBGEj539QAPfU="
 									},
 									"font": "Arial;13;0",
-									"left": 168,
+									"left": 152,
 									"top": 1007,
 									"width": 13.72998046875,
 									"height": 13,
@@ -3252,7 +3254,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 18,
+									"left": 2,
 									"top": 709,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3273,7 +3275,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 63,
+									"left": 47,
 									"top": 710,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3292,7 +3294,7 @@
 								"$ref": "AAAAAAGBGD0QXtEzUQk="
 							},
 							"lineStyle": 1,
-							"points": "199:995;48:1000;48:432;119:433",
+							"points": "199:995;32:1000;32:432;119:433",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBGEj539QCCmY="
@@ -4296,7 +4298,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "các đánh giá khác"
+					"name": "đánh giá khác"
 				},
 				{
 					"_type": "UMLJoinNode",
@@ -4445,7 +4447,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "lớn hơn 0",
+					"name": "khách hàng đã thuê",
 					"source": {
 						"$ref": "AAAAAAGBGDl+v8/6uBA="
 					},
@@ -4459,7 +4461,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "bằng 0",
+					"name": "khách hàng chưa thuê",
 					"source": {
 						"$ref": "AAAAAAGBGDl+v8/6uBA="
 					},
