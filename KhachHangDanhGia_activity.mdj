@@ -35,11 +35,11 @@
 									"_parent": {
 										"$ref": "AAAAAAGBGEZlB9PEQJA="
 									},
-									"font": "Arial;13;0",
+									"font": "Arial;15;0",
 									"left": 16,
 									"top": 12,
 									"width": 369,
-									"height": 13,
+									"height": 15,
 									"text": "Khách hàng",
 									"verticalAlignment": 3
 								}
@@ -49,7 +49,7 @@
 									"$ref": "AAAAAAGBGDo/KtBROg4="
 								}
 							],
-							"font": "Arial;13;0",
+							"font": "Arial;15;0",
 							"left": 16,
 							"top": 8,
 							"width": 369,
@@ -74,11 +74,11 @@
 									"_parent": {
 										"$ref": "AAAAAAGBGEaV89PNe44="
 									},
-									"font": "Arial;13;0",
+									"font": "Arial;15;0",
 									"left": 384,
 									"top": 12,
 									"width": 345,
-									"height": 13,
+									"height": 15,
 									"text": "Hệ thống",
 									"verticalAlignment": 3
 								}
@@ -100,7 +100,7 @@
 									"$ref": "AAAAAAGBo4mNK0EEnNQ="
 								}
 							],
-							"font": "Arial;13;0",
+							"font": "Arial;15;0",
 							"left": 384,
 							"top": 8,
 							"width": 345,
@@ -166,9 +166,9 @@
 											"font": "Arial;13;1",
 											"left": 149,
 											"top": 103,
-											"width": 65.71728515625,
+											"width": 67.16455078125,
 											"height": 13,
-											"text": "đăng nhập"
+											"text": "Đăng nhập"
 										},
 										{
 											"_type": "LabelView",
@@ -201,7 +201,7 @@
 									"font": "Arial;13;0",
 									"left": 144,
 									"top": 96,
-									"width": 75.71728515625,
+									"width": 77.16455078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGBGDjkFM/FP1c="
@@ -221,7 +221,7 @@
 							"containerChangeable": true,
 							"left": 144,
 							"top": 96,
-							"width": 75.71728515625,
+							"width": 77.16455078125,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAGBGDjkFM/EFWY="
@@ -302,7 +302,7 @@
 											"top": 583,
 											"width": 111,
 											"height": 26,
-											"text": "đánh giá tình trạng sản phẩm",
+											"text": "Đánh giá tình trạng sản phẩm",
 											"wordWrap": true
 										},
 										{
@@ -406,7 +406,7 @@
 											"top": 583,
 											"width": 95,
 											"height": 26,
-											"text": "đánh giá chất lượng dịch vụ",
+											"text": "Đánh giá chất lượng dịch vụ",
 											"wordWrap": true
 										},
 										{
@@ -510,7 +510,7 @@
 											"top": 583,
 											"width": 87,
 											"height": 26,
-											"text": "đánh giá khác",
+											"text": "Đánh giá khác",
 											"wordWrap": true
 										},
 										{
@@ -628,9 +628,9 @@
 											"font": "Arial;13;1",
 											"left": 469,
 											"top": 719,
-											"width": 182.03173828125,
+											"width": 183.47265625,
 											"height": 13,
-											"text": "xác nhận và ghi vào hệ thống"
+											"text": "Xác nhận và ghi vào hệ thống"
 										},
 										{
 											"_type": "LabelView",
@@ -663,7 +663,7 @@
 									"font": "Arial;13;0",
 									"left": 464,
 									"top": 712,
-									"width": 192.03173828125,
+									"width": 193.47265625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGBGDxG5tDMe3k="
@@ -683,7 +683,7 @@
 							"containerChangeable": true,
 							"left": 464,
 							"top": 712,
-							"width": 192.03173828125,
+							"width": 193.47265625,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAGBGDxG5tDLGyc="
@@ -730,9 +730,9 @@
 											"font": "Arial;13;1",
 											"left": 493,
 											"top": 807,
-											"width": 136.474609375,
+											"width": 140.08642578125,
 											"height": 13,
-											"text": "thông báo thành công"
+											"text": "Thông báo thành công"
 										},
 										{
 											"_type": "LabelView",
@@ -765,7 +765,7 @@
 									"font": "Arial;13;0",
 									"left": 488,
 									"top": 800,
-									"width": 146.474609375,
+									"width": 150.08642578125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGBGDyMINDnleY="
@@ -785,7 +785,7 @@
 							"containerChangeable": true,
 							"left": 488,
 							"top": 800,
-							"width": 146.474609375,
+							"width": 150.08642578125,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAGBGDyMINDm2Fg="
@@ -832,9 +832,9 @@
 											"font": "Arial;13;1",
 											"left": 141,
 											"top": 807,
-											"width": 171.13916015625,
+											"width": 172.58642578125,
 											"height": 13,
-											"text": "nhận thông báo thành công"
+											"text": "Nhận thông báo thành công"
 										},
 										{
 											"_type": "LabelView",
@@ -867,7 +867,7 @@
 									"font": "Arial;13;0",
 									"left": 136,
 									"top": 800,
-									"width": 181.13916015625,
+									"width": 182.58642578125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGBGDyts9EBuVs="
@@ -887,7 +887,7 @@
 							"containerChangeable": true,
 							"left": 136,
 							"top": 800,
-							"width": 181.13916015625,
+							"width": 182.58642578125,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAGBGDyts9EA50U="
@@ -936,7 +936,7 @@
 											"top": 887,
 											"width": 143,
 											"height": 13,
-											"text": "đánh giá CSVC khác?"
+											"text": "Đánh giá CSVC khác?"
 										},
 										{
 											"_type": "LabelView",
@@ -1054,7 +1054,7 @@
 											"top": 1063,
 											"width": 70,
 											"height": 13,
-											"text": "đăng xuất"
+											"text": "Đăng xuất"
 										},
 										{
 											"_type": "LabelView",
@@ -1305,7 +1305,7 @@
 								"$ref": "AAAAAAGBGDjkE8/DsiU="
 							},
 							"lineStyle": 1,
-							"points": "182:137;184:184;535:185",
+							"points": "183:137;184:184;535:185",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBGD1M8NFolio="
@@ -1337,9 +1337,9 @@
 										"$ref": "AAAAAAGBGD1lztGImwU="
 									},
 									"font": "Arial;13;0",
-									"left": 559,
+									"left": 558,
 									"top": 204,
-									"width": 28.919921875,
+									"width": 31.078125,
 									"height": 13,
 									"alpha": 1.9792844952897248,
 									"distance": 20.248456731316587,
@@ -1347,7 +1347,7 @@
 										"$ref": "AAAAAAGBGD1lztGJ3Ms="
 									},
 									"edgePosition": 1,
-									"text": "đúng"
+									"text": "Đúng"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1526,9 +1526,9 @@
 										"$ref": "AAAAAAGBGD1wfNGqQuo="
 									},
 									"font": "Arial;13;0",
-									"left": 439,
+									"left": 432,
 									"top": 355,
-									"width": 70,
+									"width": 85,
 									"height": 26,
 									"alpha": -1.0636981630735103,
 									"distance": 43.68065933568311,
@@ -1536,7 +1536,7 @@
 										"$ref": "AAAAAAGBGD1wfNGr8+0="
 									},
 									"edgePosition": 1,
-									"text": "khách hàng đã thuê",
+									"text": "Khách hàng đã thuê",
 									"wordWrap": true
 								},
 								{
@@ -1632,7 +1632,7 @@
 										"$ref": "AAAAAAGBGD10rNG8elQ="
 									},
 									"edgePosition": 1,
-									"text": "khách hàng chưa thuê",
+									"text": "Khách hàng chưa thuê",
 									"wordWrap": true
 								},
 								{
@@ -2399,7 +2399,7 @@
 											"top": 719,
 											"width": 110,
 											"height": 13,
-											"text": "xác nhận"
+											"text": "Xác nhận"
 										},
 										{
 											"_type": "LabelView",
@@ -2667,7 +2667,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 573,
+									"left": 575,
 									"top": 769,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2688,7 +2688,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 588,
+									"left": 590,
 									"top": 768,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2709,7 +2709,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 544,
+									"left": 546,
 									"top": 770,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2728,7 +2728,7 @@
 								"$ref": "AAAAAAGBGDxG5tDKbds="
 							},
 							"lineStyle": 1,
-							"points": "559:753;560:799",
+							"points": "560:753;562:799",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBGD5k5tLx+uo="
@@ -2761,7 +2761,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 401,
+									"left": 402,
 									"top": 829,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2782,7 +2782,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 401,
+									"left": 402,
 									"top": 844,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2803,7 +2803,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 402,
+									"left": 403,
 									"top": 799,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2822,7 +2822,7 @@
 								"$ref": "AAAAAAGBGDyMINDldy8="
 							},
 							"lineStyle": 1,
-							"points": "487:820;317:820",
+							"points": "487:820;319:820",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBGD5o1NMCoCQ="
@@ -2948,9 +2948,9 @@
 										"$ref": "AAAAAAGBGD6Yv9NMPhQ="
 									},
 									"font": "Arial;13;0",
-									"left": 232,
+									"left": 231,
 									"top": 1024,
-									"width": 35.419921875,
+									"width": 37.5908203125,
 									"height": 13,
 									"alpha": 1.72945105038835,
 									"distance": 25.317977802344327,
@@ -2958,7 +2958,7 @@
 										"$ref": "AAAAAAGBGD6Yv9NN+4o="
 									},
 									"edgePosition": 1,
-									"text": "không"
+									"text": "Không"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3231,9 +3231,9 @@
 										"$ref": "AAAAAAGBGEj539QAPfU="
 									},
 									"font": "Arial;13;0",
-									"left": 152,
+									"left": 149,
 									"top": 1007,
-									"width": 13.72998046875,
+									"width": 19.5,
 									"height": 13,
 									"alpha": -2.7415708985585927,
 									"distance": 323.5428874198906,
@@ -3241,7 +3241,7 @@
 										"$ref": "AAAAAAGBGEj539QBbGE="
 									},
 									"edgePosition": 1,
-									"text": "có"
+									"text": "Có"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3420,9 +3420,9 @@
 										"$ref": "AAAAAAGBo4p2c0Emj+U="
 									},
 									"font": "Arial;13;0",
-									"left": 568,
-									"top": 147,
-									"width": 16.6181640625,
+									"left": 567,
+									"top": 149,
+									"width": 18.7890625,
 									"height": 13,
 									"alpha": -1.7044960732428045,
 									"distance": 22.80350850198276,
@@ -3430,7 +3430,7 @@
 										"$ref": "AAAAAAGBo4p2c0EnGVg="
 									},
 									"edgePosition": 1,
-									"text": "sai"
+									"text": "Sai"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3444,7 +3444,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 524,
-									"top": 147,
+									"top": 145,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -3465,7 +3465,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 568,
-									"top": 145,
+									"top": 146,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3483,7 +3483,7 @@
 								"$ref": "AAAAAAGBGDkGNM/dp0U="
 							},
 							"lineStyle": 1,
-							"points": "555:167;553:137",
+							"points": "555:167;554:137",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBo4p2c0EoOng="
@@ -3516,7 +3516,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 332,
+									"left": 333,
 									"top": 125,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3537,7 +3537,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 332,
+									"left": 333,
 									"top": 140,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3558,7 +3558,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 333,
+									"left": 334,
 									"top": 95,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3577,7 +3577,7 @@
 								"$ref": "AAAAAAGBo4mNK0EEnNQ="
 							},
 							"lineStyle": 1,
-							"points": "447:116;220:116",
+							"points": "447:116;221:116",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGBo4qFokE56mM="
@@ -3725,7 +3725,7 @@
 											"top": 415,
 											"width": 143,
 											"height": 26,
-											"text": "chọn loại CSVC cần đánh giá",
+											"text": "Chọn loại CSVC cần đánh giá",
 											"wordWrap": true
 										},
 										{
@@ -3830,7 +3830,7 @@
 											"top": 407,
 											"width": 119,
 											"height": 39,
-											"text": "hiển thị số CSVC mà khách hàng đã thuê",
+											"text": "Hiển thị số CSVC mà khách hàng đã thuê",
 											"wordWrap": true
 										},
 										{
@@ -3937,7 +3937,7 @@
 											"top": 407,
 											"width": 111,
 											"height": 39,
-											"text": "thông báo bạn chưa thuê CSVC nào",
+											"text": "Thông báo bạn chưa thuê CSVC nào",
 											"wordWrap": true
 										},
 										{
@@ -4063,7 +4063,7 @@
 											"top": 239,
 											"width": 135,
 											"height": 26,
-											"text": "kiểm tra số CSVC mà khách hàng đã thuê",
+											"text": "Kiểm tra số CSVC mà khách hàng đã thuê",
 											"wordWrap": true
 										},
 										{
@@ -4168,9 +4168,9 @@
 											"font": "Arial;13;1",
 											"left": 453,
 											"top": 103,
-											"width": 197.9072265625,
+											"width": 201.51904296875,
 											"height": 13,
-											"text": "thông báo nhập sai cần nhập lại"
+											"text": "Thông báo nhập sai cần nhập lại"
 										},
 										{
 											"_type": "LabelView",
@@ -4203,7 +4203,7 @@
 									"font": "Arial;13;0",
 									"left": 448,
 									"top": 96,
-									"width": 207.9072265625,
+									"width": 211.51904296875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGBo4mNK0EGXq4="
@@ -4226,7 +4226,7 @@
 							"containerChangeable": true,
 							"left": 448,
 							"top": 96,
-							"width": 207.9072265625,
+							"width": 211.51904296875,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAGBo4mNK0EFnnk="
@@ -4250,7 +4250,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "đăng nhập"
+					"name": "Đăng nhập"
 				},
 				{
 					"_type": "UMLDecisionNode",
@@ -4282,7 +4282,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "đánh giá tình trạng sản phẩm"
+					"name": "Đánh giá tình trạng sản phẩm"
 				},
 				{
 					"_type": "UMLAction",
@@ -4290,7 +4290,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "đánh giá chất lượng dịch vụ"
+					"name": "Đánh giá chất lượng dịch vụ"
 				},
 				{
 					"_type": "UMLAction",
@@ -4298,7 +4298,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "đánh giá khác"
+					"name": "Đánh giá khác"
 				},
 				{
 					"_type": "UMLJoinNode",
@@ -4314,7 +4314,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "xác nhận và ghi vào hệ thống"
+					"name": "Xác nhận và ghi vào hệ thống"
 				},
 				{
 					"_type": "UMLAction",
@@ -4322,7 +4322,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "thông báo thành công"
+					"name": "Thông báo thành công"
 				},
 				{
 					"_type": "UMLAction",
@@ -4330,7 +4330,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "nhận thông báo thành công"
+					"name": "Nhận thông báo thành công"
 				},
 				{
 					"_type": "UMLAction",
@@ -4338,7 +4338,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "đánh giá CSVC khác?"
+					"name": "Đánh giá CSVC khác?"
 				},
 				{
 					"_type": "UMLDecisionNode",
@@ -4354,7 +4354,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "đăng xuất"
+					"name": "Đăng xuất"
 				},
 				{
 					"_type": "UMLActivityFinalNode",
@@ -4370,7 +4370,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "xác nhận"
+					"name": "Xác nhận"
 				}
 			],
 			"edges": [
@@ -4420,7 +4420,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "đúng",
+					"name": "Đúng",
 					"source": {
 						"$ref": "AAAAAAGBGDkGNM/b6wQ="
 					},
@@ -4447,7 +4447,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "khách hàng đã thuê",
+					"name": "Khách hàng đã thuê",
 					"source": {
 						"$ref": "AAAAAAGBGDl+v8/6uBA="
 					},
@@ -4461,7 +4461,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "khách hàng chưa thuê",
+					"name": "Khách hàng chưa thuê",
 					"source": {
 						"$ref": "AAAAAAGBGDl+v8/6uBA="
 					},
@@ -4696,7 +4696,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "không",
+					"name": "Không",
 					"source": {
 						"$ref": "AAAAAAGBGD0QXdExSdY="
 					},
@@ -4736,7 +4736,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "có",
+					"name": "Có",
 					"source": {
 						"$ref": "AAAAAAGBGD0QXdExSdY="
 					},
@@ -4763,7 +4763,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGBGDgj7s+2xrA="
 					},
-					"name": "sai",
+					"name": "Sai",
 					"source": {
 						"$ref": "AAAAAAGBGDkGNM/b6wQ="
 					},
@@ -4813,7 +4813,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBGEZlB9PCakE="
 							},
-							"name": "chọn loại CSVC cần đánh giá"
+							"name": "Chọn loại CSVC cần đánh giá"
 						}
 					]
 				},
@@ -4831,7 +4831,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBGEaV8tPLhXM="
 							},
-							"name": "hiển thị số CSVC mà khách hàng đã thuê"
+							"name": "Hiển thị số CSVC mà khách hàng đã thuê"
 						},
 						{
 							"_type": "UMLAction",
@@ -4839,7 +4839,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBGEaV8tPLhXM="
 							},
-							"name": "thông báo bạn chưa thuê CSVC nào"
+							"name": "Thông báo bạn chưa thuê CSVC nào"
 						},
 						{
 							"_type": "UMLDecisionNode",
@@ -4855,7 +4855,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBGEaV8tPLhXM="
 							},
-							"name": "kiểm tra số CSVC mà khách hàng đã thuê"
+							"name": "Kiểm tra số CSVC mà khách hàng đã thuê"
 						},
 						{
 							"_type": "UMLAction",
@@ -4863,7 +4863,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBGEaV8tPLhXM="
 							},
-							"name": "thông báo nhập sai cần nhập lại"
+							"name": "Thông báo nhập sai cần nhập lại"
 						}
 					]
 				}
